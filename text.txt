@@ -1,1 +1,3 @@
 adding some text for commit 2 
+
+this is commit 4. the file named thisFile.txt should be gone after the revert
