@@ -5,3 +5,5 @@ this is commit 4. the file named thisFile.txt should be gone after the revert
 line 1 : some text lalalalalal
 
 line 2 : something else interesting 
+
+line 3 : another exciting line
